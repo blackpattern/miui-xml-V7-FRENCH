@@ -23,7 +23,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="ack_record">Enregistrement accusé de réception</string>
-  <string name="airplane_can_not_share">"Le partage via Bluetooth n'est pas disponible en mode avion"</string>
+  <string name="airplane_can_not_share">"Le partage via Bluetooth n\'est pas disponible en mode avion"</string>
   <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode avion.</string>
   <string name="airplane_error_title">Mode avion</string>
   <string name="app_name">Partage Bluetooth</string>
